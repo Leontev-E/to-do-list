@@ -1,0 +1,34 @@
+.complete {
+    text-decoration: line-through;
+    text-decoration-color: rgb(255, 255, 255);
+
+}
+
+.item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin: 5px;
+}
+
+p {
+    font-family: cursive;
+}
+
+.Check2All {
+    padding: 5px;
+    cursor: pointer;
+}
+
+.red {
+    color: aqua;
+}
+
+.pointer:hover {
+    color: darkorange;
+}
+
+.Trash:hover {
+    color: red;
+}
